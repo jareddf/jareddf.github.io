@@ -6055,3 +6055,8 @@ td.visible-print {
     display: none !important;
   }
 }
+
+/* --- WCAG contrast overrides (added) --- */
+a, a:visited { color: #005C99 !important; }
+a:hover, a:focus { color: #005C99 !important; }
+.text-muted { color: #595959 !important; }
