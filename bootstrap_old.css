@@ -280,12 +280,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #005C99;
+  color: #0090F0;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #005C99;
+  color: #0090F0;
   text-decoration: underline;
 }
 a:focus {
@@ -357,7 +357,7 @@ cite {
   font-style: normal;
 }
 .text-muted {
-  color: #595959;
+  color: #999999;
 }
 .text-primary {
   color: #428bca;
